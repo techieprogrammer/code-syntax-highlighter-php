@@ -1,0 +1,73 @@
+/* Code Highlighter Start */
+
+/* Code Div */
+.codediv {
+font-size:16px;
+padding:0px;
+margin-top:5px;
+margin-bottom:5px;
+}
+
+/* File Name Color */
+.fN {
+color:#21094e;
+margin-bottom:5px;
+}
+
+/* Code */
+.code {
+line-height:normal;
+padding:15px;
+overflow:auto;
+color:#85d9eb;
+background-color:#191e1e;
+border-left:5px solid #605a56;    
+}
+
+/* Paragraph */
+pre {
+margin:0px;
+padding:0px;
+}
+
+/* Line Number Color */
+.lI {
+color:#ffffff;
+}
+
+/* Keyword Color */
+.kC {
+color:#56e27a;
+}
+
+/* Single Line & Mulitple Lines Comment Color */
+.cC {
+color:#b8b0b0;
+}
+
+/* Single & Double Quotes Color */
+.qC {
+color:#d4f088;
+}
+
+/* Parenthesis Color */
+.pC {
+color:#ffffff;
+}
+
+/* Inner Parenthesis Color */
+.iPC {
+color:#d4f088;
+}
+
+/* Bracket Color */
+.bC {
+color:#ffffff;
+}
+
+/* Inner Bracket Color */
+.iBC {
+color:#d4f088;
+}
+
+/* Code Highlighter End */
